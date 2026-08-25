@@ -10,7 +10,7 @@ const bio = document.createElement("p");
 bio.textContent = "Maganda";
 
 const profile = document.createElement("img");
-profile.src = "https://i.profile.cc/150?img=47";
+profile.src = "dc02161d-312a-4bb9-b346-de4b20297a33-removebg-preview.png";
 profile.alt = "Profile Picture";
 
 profileCard.appendChild(profile);
