@@ -9,11 +9,11 @@ name.textContent = "Racel Cana";
 const bio = document.createElement("p");
 bio.textContent = "Maganda";
 
-const avatar = document.createElement("img");
-avatar.src = "https://i.pravatar.cc/150?img=47";
-avatar.alt = "Student Avatar";
+const profile = document.createElement("img");
+profile.src = "https://i.profile.cc/150?img=47";
+profile.alt = "Profile Picture";
 
-profileCard.appendChild(avatar);
+profileCard.appendChild(profile);
 profileCard.appendChild(name);
 profileCard.appendChild(bio);
 
