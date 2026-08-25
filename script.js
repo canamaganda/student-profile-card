@@ -4,7 +4,7 @@ const profileCard = document.createElement("div");
 profileCard.classList.add("profile-card");
 
 const name = document.createElement("h2");
-name.textContent = "Racel Cana";
+name.textContent = "Racel Caña";
 
 const bio = document.createElement("p");
 bio.textContent = "A BSIS2 student studying at La Verdad Christian College (LVCC). To live for the hope of it all.";
