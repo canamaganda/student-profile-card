@@ -7,7 +7,7 @@ const name = document.createElement("h2");
 name.textContent = "Racel Cana";
 
 const bio = document.createElement("p");
-bio.textContent = "BSIS2";
+bio.textContent = "A BSIS2 student studying at La Verdad Christian College (LVCC) - Apalit Pampanga. To live for the hope of it all.";
 
 const profile = document.createElement("img");
 profile.src = "profile.png";
