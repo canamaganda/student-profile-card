@@ -7,7 +7,7 @@ const name = document.createElement("h2");
 name.textContent = "Racel Cana";
 
 const bio = document.createElement("p");
-bio.textContent = "Maganda";
+bio.textContent = "BSIS2";
 
 const profile = document.createElement("img");
 profile.src = "profile.png";
